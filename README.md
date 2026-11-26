@@ -13,7 +13,7 @@ Prompt injection is currently ranked as the **#1 risk** for LLM applications by 
 This project investigates whether simple, fast, and cheap classifiers can detect prompt injection attacks nearly as well as more expensive LLM-based guards — and how well they generalise to new attack formulations.
 
 **Research Question**  
-> Can a lightweight classifier detect prompt injection as effectively as an LLM-based guard, at a fraction of the cost and latency, and how well does it handle paraphrased or non-English attacks?
+> Can a lightweight classifier detect prompt injection as effectively as an LLM-based guard, at a fraction of the cost and latency, and how well does it handle paraphrased?
 
 ---
 
