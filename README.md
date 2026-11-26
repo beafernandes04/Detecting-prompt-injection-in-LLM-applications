@@ -54,10 +54,10 @@ This project investigates whether simple, fast, and cheap classifiers can detect
 - [x] Project defined and research question formulated
 - [x] Initial literature review (OWASP Top 10 for LLMs, Greshake et al. 2023)
 - [x] Report chapters 1–3 drafted
-- [ ] Dataset collection and cleaning
-- [ ] Baseline classifier training
-- [ ] DistilBERT fine-tuning
-- [ ] LLM-as-a-guard experiments
+- [x] Dataset collection and cleaning
+- [x] Baseline classifier training
+- [x] DistilBERT fine-tuning
+- [x] LLM-as-a-guard experiments
 - [ ] Generalisation evaluation
 - [ ] Final report and results
 
